@@ -63,8 +63,3 @@ You can modify, distribute, and adapt it for personal or commercial purposes.
 ---
 
 If you want, I can now create a **visual mockup preview** of your `enhanced-form.html` so that this README has a screenshot section — which will make it far more attractive on GitHub.
-
-
-
-
-Ask
