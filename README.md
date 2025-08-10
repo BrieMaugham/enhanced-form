@@ -67,7 +67,4 @@ If you want, I can now create a **visual mockup preview** of your `enhanced-form
 
 
 
-
-
-
-Ask ChatGPT
+Ask
